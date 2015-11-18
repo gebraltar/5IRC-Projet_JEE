@@ -1,2 +1,7 @@
 /build/
 .classpath
+
+# OS Files #
+.DS_Store
+ 
+*.class
